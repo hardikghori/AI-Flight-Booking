@@ -29,8 +29,27 @@ It can chat in natural language to “book” flights or show real flight data f
 
 ```bash
 # Clone the project
-git clone https://github.com/<your‑username>/flight_chat.git
+git clone https://github.com/Blueything/flight_chat.git
 cd flight_chat
 
 # Install dependencies
 pip install requests
+
+# Usage
+python flight_bot.py
+
+AI Flight Booking Chat (OpenRouter)
+(Type 'exit' to quit)
+
+You: sj to lax tomorrow round sat
+Bot: Here are flights…
+You: yes
+# Browser opens Google Flights with SJC→LAX and your dates pre‑filled
+
+# Structure
+flight_chat/
+│
+├─ flight_bot.py      ← main script (AI + Automation)
+├─ README.md          ← this file
+├─ .gitignore         ← excludes keys, logs, .env
+└─ booking_log.txt    ← optional transcript / history
