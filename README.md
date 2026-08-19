@@ -53,3 +53,14 @@ flight_chat/
 ├─ README.md          ← this file
 ├─ .gitignore         ← excludes keys, logs, .env
 └─ booking_log.txt    ← optional transcript / history
+
+---
+
+## About
+
+Built by **Hardik Ghori**, a software engineer working on applied AI, computer vision and full stack systems in the San Francisco Bay Area. M.S. Software Engineering, San José State University.
+
+- Portfolio and case studies: [hardik-ghori.vercel.app](https://hardik-ghori.vercel.app)
+- Resume: [github.com/hardikghori/resume](https://github.com/hardikghori/resume)
+- LinkedIn: [in/hardik-ghori99](https://www.linkedin.com/in/hardik-ghori99/)
+- Writing: [medium.com/@hardikghori3](https://medium.com/@hardikghori3)
